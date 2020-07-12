@@ -2,7 +2,7 @@
 # The Sample code for Microsoft 365 Enterprise SharePoint File
 
 ## Initialize
-Initialize the .NET development secret store by opening your CLI in the directory that contains GroupsAndUsers.csproj and running the following command.
+Initialize the .NET development secret store by opening your CLI in the directory that contains GraphFileSample.csproj and running the following command.
 ```
 dotnet user-secrets init
 ```
