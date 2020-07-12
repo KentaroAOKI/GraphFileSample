@@ -1,6 +1,8 @@
 
 # The Sample code for Microsoft 365 Enterprise SharePoint File
 
+https://qiita.com/kekekekenta/items/d5434045c4b4598abcb7
+
 ## Initialize
 Initialize the .NET development secret store by opening your CLI in the directory that contains GraphFileSample.csproj and running the following command.
 ```
